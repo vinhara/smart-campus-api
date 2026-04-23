@@ -53,7 +53,9 @@ NetBeans IDE (recommended) or any IDE with Tomcat support
 1. Clone the repository
 git clone https://github.com/vinhara/smart-campus-api.git
 
-cd smartcampus-api
+Alternatively, you can download the project as a ZIP from GitHub using the "Code → Download ZIP" option.
+
+cd smart-campus-api
 
 2. Open the project in NetBeans
 
