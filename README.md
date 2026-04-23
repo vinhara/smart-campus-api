@@ -2,7 +2,7 @@
 A RESTful API built with JAX-RS (Jersey 2.32) and Apache Tomcat 9 for managing university campus rooms and sensors.
 
 ## API Overview
-This API provides a comprehensive interface for managing the Smart Campus infrastructure. It is built using JAX-RS (Jersey 2.32) deployed on Apache Tomcat 9. All data is stored in-memory using ConcurrentHashMap data structures — no database is used.
+This API provides a comprehensive interface for managing the Smart Campus infrastructure. It is built using JAX-RS (Jersey 2.32) deployed on Apache Tomcat 9. All data is stored in-memory using ConcurrentHashMap data structures  no database is used.
 The API is versioned under /api/v1 and exposes three core resource collections:
 
 Resource           Path
