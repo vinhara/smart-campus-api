@@ -12,9 +12,10 @@ Sensors            /api/v1/sensors
 Sensor Readings    /api/v1/sensors/{sensorId}/readings
 
 ## Project structure 
-
-smartcampus/
+```
+smart-campus-api/
 ├── pom.xml
+├── README.md
 └── src/main/java/com/smartcampus/
     ├── application/
     │   └── SmartCampusApplication.java
@@ -39,6 +40,7 @@ smartcampus/
     │   └── GlobalExceptionMapper.java
     └── filter/
         └── ApiLoggingFilter.java
+```
 
 
 ##Requirements
